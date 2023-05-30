@@ -25,5 +25,9 @@
     "storybook": "^7.0.18",
     "unplugin-auto-import": "^0.16.4",
     "unplugin-vue-components": "^0.19.6"
+  },
+  "dependencies": {
+    "sass": "^1.51.0",
+    "vuetify": "^3.0.1"
   }
 }
